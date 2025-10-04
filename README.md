@@ -46,7 +46,7 @@ This project is currently built using a no-code platform. If you're interested i
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+No License .
 
 ## Author
 
